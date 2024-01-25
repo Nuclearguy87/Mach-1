@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=LMQ66420MC5RXBRQ1
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=19
+Version=2.2
+Released=2023-09-05 17:51:04
+Downloaded=2024-01-24 10:00:56
+3D=Y

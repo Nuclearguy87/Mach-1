@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LMQ66420MC5RXBRQ1'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "LMQ66420MC5RXBRQ1" (!) = "", "LMQ66430R5RXBR", "Other", "595-MQ66420MC5RXBRQ1", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LMQ66420MC5RXBRQ1?qs=1Kr7Jg1SGW%2FJb4To9Gytbg%3D%3D", "", "", "Switching Voltage Regulators Automotive, 36-V, 2-A low-EMI synchronous step-down converter with 1.5-uA IQ 14-VQFN-FCRLF -40 to 150", "https://www.ti.com/lit/gpn/lmq66420-q1?HQS=ti-null-null-sf-df-pf-sep-wwe&DCM=yes?hkey=EF798316E3902B6ED9A73243A3159BB0", "1.05 mm"
+END_PART
+
+END.

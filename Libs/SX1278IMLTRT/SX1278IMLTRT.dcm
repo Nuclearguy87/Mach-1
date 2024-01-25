@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SX1278IMLTRT
+D RF Transceiver SINGLE CHIP 2 BANDS TRANCEIVER
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/DKDS-37/728736.pdf
+$ENDCMP
+#
+#End Doc Library
